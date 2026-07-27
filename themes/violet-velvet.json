@@ -1,0 +1,18 @@
+{
+  "id": "violet-velvet",
+  "name": "Violet Velvet",
+  "author": "Velvet",
+  "theme": {
+    "palette": {
+      "canvas": "#0d0915",
+      "foreground": "#f3edff",
+      "accent": "#8b5cf6",
+      "alternate": "#d946ef",
+      "warning": "#e6a23c",
+      "danger": "#f0526f",
+      "textPrimary": "#f3edff",
+      "textSecondary": "#928d9d",
+      "textTertiary": "#575260"
+    }
+  }
+}
