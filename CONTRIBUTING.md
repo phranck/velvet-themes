@@ -46,15 +46,9 @@ A color role accepts `auto`, a named palette key, or a six-digit hexadecimal
 color. The build rejects unknown fields, executable values, duplicate IDs, and
 controls outside Velvet's supported ranges.
 
-## Local checks
+## Validation
 
-```sh
-npm ci
-npm run lint
-npm run typecheck
-npm test
-npm run build
-```
-
-The generated `dist/` directory is local build output and must not be
-committed.
+Open a pull request after previewing the theme in the local Velvet
+configurator. The repository workflow uses Velvet's central validator to
+reject unknown fields, executable values, duplicate IDs, and controls outside
+the supported ranges before a theme can be published.
