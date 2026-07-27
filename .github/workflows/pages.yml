@@ -13,9 +13,8 @@ permissions:
 
 jobs:
   registry:
-    uses: phranck/velvet/.github/workflows/theme-registry.yml@issue/36-centralize-theme-registry
+    uses: phranck/velvet/.github/workflows/theme-registry.yml@main
     with:
-      tooling-ref: issue/36-centralize-theme-registry
       publish: ${{ github.event_name != 'pull_request' }}
     permissions:
       contents: read
