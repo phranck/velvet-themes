@@ -1,0 +1,18 @@
+{
+  "id": "cloudy-autumn",
+  "name": "Cloudy Autumn",
+  "author": "Velvet",
+  "theme": {
+    "palette": {
+      "canvas": "#17100d",
+      "foreground": "#fff2dc",
+      "accent": "#d97732",
+      "alternate": "#e9b949",
+      "warning": "#f0a229",
+      "danger": "#d84a3a",
+      "textPrimary": "#fff2dc",
+      "textSecondary": "#9e9385",
+      "textTertiary": "#61584f"
+    }
+  }
+}

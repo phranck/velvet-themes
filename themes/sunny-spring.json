@@ -1,0 +1,18 @@
+{
+  "id": "sunny-spring",
+  "name": "Sunny Spring",
+  "author": "Velvet",
+  "theme": {
+    "palette": {
+      "canvas": "#101713",
+      "foreground": "#f2f8e9",
+      "accent": "#78c850",
+      "alternate": "#f2cf4a",
+      "warning": "#e9a53b",
+      "danger": "#ef6868",
+      "textPrimary": "#f2f8e9",
+      "textSecondary": "#939a8f",
+      "textTertiary": "#585f57"
+    }
+  }
+}
